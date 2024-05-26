@@ -1,0 +1,50 @@
+
+
+body{
+    background-image:url(./img6.jpg);
+    z-index: -100;
+    }
+    .gallery{
+        margin:10px 50px;
+        background-color:rgba(255,255,255,0.2);
+    }
+    .gallery img{
+        transition:1s;
+        padding:15px;
+        width:200px;
+        background:radial-gradient(#FFD7);
+        border:3px dotted white; background-color:url(#FFD700);
+    }
+    
+    marquee{
+    background-color:#3893b7, #98FF98 ;
+    border:2px dotted black;
+        font-size:30px;
+        color:black;
+        font-family:'Tangerine',serif;
+         text-shadow:5px 5px 5px black;
+    }
+    audio{
+        color: #260532;
+        background-image: #ff495b;
+        border: 4px dotted ;
+        box-shadow: 80%;
+        
+    } 
+
+    div audio{
+       margin-left: 450px;
+       margin-top: 30px;
+    }
+     h2{
+        color:blueviolet ;
+        margin-left:450px ;
+    }
+
+    button{
+        background: rgba(214, 119, 198, 0.133);
+        border-radius: 10px;
+        text-overflow: clip;
+        cursor: pointer;
+        
+    }
